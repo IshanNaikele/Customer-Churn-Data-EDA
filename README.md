@@ -10,7 +10,6 @@ A full exploratory data analysis on a telecom customer churn dataset to uncover 
 CUSTOMER-CHURN-DATA-EDA/
 ├── data/
 │   └── Customer Churn.csv       # Raw dataset (7,043 rows × 21 columns)
-├── my_env/                      # Virtual environment
 ├── analysis.ipynb               # Main EDA notebook
 ├── requirements.txt             # Python dependencies
 ├── .gitignore
@@ -62,7 +61,7 @@ CUSTOMER-CHURN-DATA-EDA/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/CUSTOMER-CHURN-DATA-EDA.git
+git clone https://github.com/IshanNaikele/CUSTOMER-CHURN-DATA-EDA.git
 cd CUSTOMER-CHURN-DATA-EDA
 
 # 2. Create & activate virtual environment
